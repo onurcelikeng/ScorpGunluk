@@ -1,0 +1,2 @@
+MainPackage=C:\Users\onurcelikeng\Documents\Visual Studio 2015\Projects\ScorpGunluk\ScorpGunluk.W10\bin\x86\Release\Upload\ScorpGunluk.W10_2.0.0.0_x86.appx
+SymbolPackage=C:\Users\onurcelikeng\Documents\Visual Studio 2015\Projects\ScorpGunluk\ScorpGunluk.W10\AppPackages\ScorpGunluk.W10_2.0.0.0\ScorpGunluk.W10_2.0.0.0_x86.appxsym
